@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="603px" height="376px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="603px" height="476px" font-size="16px">
 <style>
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
 .dots {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="603px" height="376px" fill="#161b22" rx="15"/>
+<rect width="603px" height="476px" fill="#161b22" rx="15"/>
 <text fill="#c9d1d9">
 <tspan x="20" y="34"><tspan class="text">sky1407 </tspan><tspan class="dots">--------------------------------------------------</tspan></tspan>
 <tspan x="20" y="54"><tspan class="key">OS</tspan>:<tspan class="dots"> ........................ </tspan><tspan class="value">Windows 11, Android 16, Linux</tspan></tspan>
 <tspan x="20" y="74"><tspan class="key">Uptime</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">35 years, 2 months, 27 days</tspan></tspan>
 <tspan x="20" y="94"><tspan class="key">Host</tspan>:<tspan class="dots"> ......................................... </tspan><tspan class="value">Freelancer</tspan></tspan>
 <tspan x="20" y="114"><tspan class="key">Kernel</tspan>:<tspan class="dots"> ......................... </tspan><tspan class="value">Full-Stack Web Developer</tspan></tspan>
-<tspan x="20" y="134"><tspan class="key">IDE</tspan>:<tspan class="dots"> ...................................... </tspan><tspan class="value">VSCode 1.141.0</tspan></tspan>
-<tspan x="20" y="174"><tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">JavaScript, Python</tspan></tspan>
-<tspan x="20" y="194"><tspan class="key">Languages.Computer</tspan>:<tspan class="dots"> ................ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="20" y="134"><tspan class="key">IDE</tspan>:<tspan class="dots"> ............................................. </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="20" y="174"><tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> .... </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan></tspan>
+<tspan x="20" y="194"><tspan class="key">Languages.Computer</tspan>:<tspan class="dots"> ........... </tspan><tspan class="value">HTML, CSS, SQL, JSON, YAML</tspan></tspan>
 <tspan x="20" y="214"><tspan class="key">Languages.Real</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">English, Slovak</tspan></tspan>
-<tspan x="20" y="254"><tspan class="key">Hobbies.Software</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">Android Jailbreaking</tspan></tspan>
-<tspan x="20" y="274"><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan></tspan>
-<tspan x="20" y="314"><tspan class="text">- Contact </tspan><tspan class="dots">------------------------------------------------</tspan></tspan>
-<tspan x="20" y="334"><tspan class="key">Email.Personal</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">skyjacker007@gmail.com</tspan></tspan>
-<tspan x="20" y="354"><tspan class="key">GitHub</tspan>:<tspan class="dots"> .......................................... </tspan><tspan class="value">sky1407</tspan></tspan>
+<tspan x="20" y="254"><tspan class="key">Stack.Frontend</tspan>:<tspan class="dots"> ................. </tspan><tspan class="value">React, Next.js, Three.js</tspan></tspan>
+<tspan x="20" y="274"><tspan class="key">Stack.Backend</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">Node.js, Express, Prisma</tspan></tspan>
+<tspan x="20" y="294"><tspan class="key">Stack.Data</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">PostgreSQL, SQLite, MongoDB</tspan></tspan>
+<tspan x="20" y="314"><tspan class="key">Stack.DevOps</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">Docker, GitHub Actions, Vercel</tspan></tspan>
+<tspan x="20" y="354"><tspan class="key">Hobbies.Software</tspan>:<tspan class="dots"> ........................ </tspan><tspan class="value">Android Rooting</tspan></tspan>
+<tspan x="20" y="374"><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="dots"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan></tspan>
+<tspan x="20" y="414"><tspan class="text">- Contact </tspan><tspan class="dots">------------------------------------------------</tspan></tspan>
+<tspan x="20" y="434"><tspan class="key">Email.Personal</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">skyjacker007@gmail.com</tspan></tspan>
+<tspan x="20" y="454"><tspan class="key">GitHub</tspan>:<tspan class="dots"> .......................................... </tspan><tspan class="value">sky1407</tspan></tspan>
 </text>
 </svg>
